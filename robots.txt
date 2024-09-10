@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ialbato.github.io/sitemap.html.gz
+Sitemap: https://ialbato.github.io/app/sitemap.html.gz
+Sitemap: https://ialbato.github.io/assets/sitemap.html.gz
+Sitemap: https://ialbato.github.io/css/sitemap.html.gz
+Sitemap: https://ialbato.github.io/includes/sitemap.html.gz
+Sitemap: https://ialbato.github.io/item/sitemap.html.gz
+Sitemap: https://ialbato.github.io/src/sitemap.html.gz
